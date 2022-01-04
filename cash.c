@@ -39,7 +39,7 @@ cents = cents - 1;
 coins++;
 }
 
-printf("Coins=%i", coins);
+printf("Coins_number=%i", coins);
 printf("\n");
 
 }
